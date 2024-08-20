@@ -24,8 +24,7 @@ News
 Development Program of Hubei Province under Grant 2023BAB061, as a major participant in the conception and writing of the application form. [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
         <br>                
-        [2023-10] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded the First Prize in National Graduate Mathematical Modeling
-[Link](https://mmistakes.github.io/minimal-mistakes/)
+        [2023-10] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded First Prize in the National Graduate Mathematical Modeling Competition. [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
 

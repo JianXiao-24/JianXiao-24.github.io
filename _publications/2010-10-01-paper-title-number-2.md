@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'The code is available at [MTN](https://github.com/WiCi-Lab/LPAN).'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'J. Xiao, J. Wang, Z. Wang, W. Xie and Y. Liu, "Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5969-5984, June 2024, doi: 10.1109/TWC.2023.3329387. '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A multi-scale attention based channel estimation framework is proposed for reconfigurable intelligent surface (RIS) aided massive multiple-input multiple-output systems, in which hardware imperfections and time-varying characteristics of the cascaded channel are investigated. By exploiting the spatial correlations of different scales in the RIS reflection element domain, we construct a Laplacian pyramid attention network (LPAN) to realize the high-dimensional cascaded channel reconstruction with limited pilot overhead. In LPAN, we leverage the multi-scale supervision learning to progressively capture the spatial correlations of the cascaded channel, where the attention mechanism based dual-branch architecture is designed. To balance network performance and complexity of LPAN, we further propose a lightweight LPAN-L architecture. In LPAN-L, the partial standard convolutional layers are decomposed into the group convolution, dilated convolution and point-wise convolution, which forms a sparse convolutional filter set to extract the channel feature with less computation cost. Furthermore, we leverage parameter sharing and recursion strategy to reduce the space complexity. Moreover, a selective fine-tuning strategy is developed to realize the domain adaption. Simulation results show that the proposed LPAN can achieve higher estimation accuracy than the existing estimation schemes, while the LPAN-L architecture with a close performance to LPAN efficiently reduces the network complexity. 

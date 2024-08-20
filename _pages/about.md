@@ -3,8 +3,6 @@ About me
 
 I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan Institute of Science and Technology](https://mmistakes.github.io/minimal-mistakes/) under the supervision of Dr. [Wenwu Xie](https://mmistakes.github.io/minimal-mistakes/), in 2019 and 2022, respectively. He is currently pursuing the Ph.D. degree with [Central China Normal University](https://mmistakes.github.io/minimal-mistakes/), advised by Dr. [Yuanwei Liu](https://mmistakes.github.io/minimal-mistakes/)  and Prof. [Guangming Huang](https://mmistakes.github.io/minimal-mistakes/). My research interests include electromagnetic information theory, reconfigurable intelligent surface, and machine learning.
 
-======
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

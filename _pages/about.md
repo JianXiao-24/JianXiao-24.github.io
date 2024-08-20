@@ -23,6 +23,10 @@ News
                 [2023-10] A collaborative project (**Active RIS for wireless communications**) has received funding by the Key Research and
 Development Program of Hubei Province under Grant 2023BAB061, as a major participant in the conception and writing of the application form. [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
+        <br>                
+        [2023-10] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded the First Prize in National Graduate Mathematical Modeling
+[Link](https://mmistakes.github.io/minimal-mistakes/)
+        <br>
         <br>
 
 

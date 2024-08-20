@@ -20,7 +20,7 @@ News
 [2024-07] A leading proposal (**Generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151 (Proportion of finances = 3/40). [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
         <br>
-        [2024-06] My master's thesis (**Deep compressed sensing for RIS communications**) has been awarded as an excellent master's thesis in HNIST, and has been recommended as an **excellent master's thesis in Hunan Province** (Proportion of winners < 1/30). [Link](https://mmistakes.github.io/minimal-mistakes/)
+        [2024-06] My master's thesis (**Deep compressed sensing for RIS communications**) has been awarded as an excellent master's thesis in HNIST, and has been recommended as an **excellent master's thesis in Hunan Province** (Proportion of winners = 1/30). [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
          <br>
 [2023-10] A collaborative project (**Active RIS for wireless communications**) has received funding by the Key Research and

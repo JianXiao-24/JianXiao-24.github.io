@@ -1,6 +1,5 @@
 ---
 title: "Multi-Task Learning Based Channel Estimation for Hybrid-Field STAR-RIS Systems"
-collection: publications
 category: conferences
 permalink: /publication/GlobeCom
 ---

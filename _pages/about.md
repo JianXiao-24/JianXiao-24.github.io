@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Hello World! 不行无益之事，何以慰有涯之生"
+title: "Hello World! "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+不行无益之事，何以慰有涯之生
+======
 
 About me
 ======

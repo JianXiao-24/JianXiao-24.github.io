@@ -14,11 +14,11 @@ I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan In
 
 News
 ======
-[2024-06] A leading project (**generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151. 
+[2024-07] A leading project (**generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151. 
         <br>
+                [2024-06] My master's thesis has been recommended as an excellent master's thesis in Hunan Province
         <br>
-        [2024-06] I am awarded Exemplary Reviewer of IEEE Wireless Communications Letters [<a href="./homepage_files/WCL_2023_Exemplary_Reviewer.pdf">Certificate</a>].
-        <br>
+        [2024-06] My master's thesis has been awarded as an excellent master's thesis in [HNIST](https://mmistakes.github.io/minimal-mistakes/)
         <br>
 
 For more info

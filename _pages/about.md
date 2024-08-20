@@ -14,4 +14,4 @@ News
 
 For more info
 ------
-More info about our research group can be found in WiCi-Lab[WiCi-Lab](https://academicpages.github.io/markdown/). 
+More info about our research group can be found in [WiCi-Lab](https://academicpages.github.io/markdown/). 

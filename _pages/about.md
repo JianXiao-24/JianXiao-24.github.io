@@ -37,7 +37,7 @@ Development Program of Hubei Province under Grant 2023BAB061, as a major partici
         <br>
         <br>
 [2021-9] I got fourth place for **AI-based channel estimation** task in Wireless Communication AI Competition (WAIC) 2021 hosted by The 5G+AI Work Group of IMT-2020 (5G) Promotion Group (Total number of participating teams
-= 651). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
+= 651). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]. [code](https://mmistakes.github.io/minimal-mistakes/)
         <br>
 
 

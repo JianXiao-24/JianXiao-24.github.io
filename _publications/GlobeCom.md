@@ -1,5 +1,5 @@
 ---
-title: "Multi-Scale Supervised Learning-Based Channel Estimation for RIS-Aided Communication Systems"
+title: "Multi-Task Learning Based Channel Estimation for Hybrid-Field STAR-RIS Systems"
 collection: publications
 category: conferences
 permalink: /publication/GlobeCom

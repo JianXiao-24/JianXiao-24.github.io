@@ -16,7 +16,6 @@ News
 ======
 [2024-07] A leading project (**generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151. 
         <br>
-                [2024-06] 
         <br>
         [2024-06] My master's thesis (**deep compressed sensing for RIS communications**) has been awarded as an excellent master's thesis in [HNIST](https://mmistakes.github.io/minimal-mistakes/), and has been recommended as an **excellent master's thesis in Hunan Province**
         <br>

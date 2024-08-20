@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello World"
+title: "Hello World!"
 author_profile: true
 redirect_from: 
   - /about/

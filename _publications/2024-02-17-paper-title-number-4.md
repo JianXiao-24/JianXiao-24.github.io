@@ -2,7 +2,7 @@
 title: "Multi-Scale Supervised Learning-Based Channel Estimation for RIS-Aided Communication Systems"
 collection: publications
 category: conferences
-permalink: [url](https://ieeexplore.ieee.org/abstract/document/10119023)
+permalink: /publication/2024-02-17-paper-title-number-4
 date: 12 May 2023
 venue: '2023 IEEE Wireless Communications and Networking Conference (WCNC)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'

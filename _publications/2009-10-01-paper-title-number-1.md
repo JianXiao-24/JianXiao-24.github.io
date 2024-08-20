@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Wideband Beamforming for RIS Assisted Near-Field Communications"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is supported in part by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: '8 21'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

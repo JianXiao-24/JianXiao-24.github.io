@@ -14,11 +14,17 @@ I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan In
 
 News
 ======
-[2024-07] A leading proposal (**generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151. [Link](https://mmistakes.github.io/minimal-mistakes/)
+[2024-07] A leading proposal (**Generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151. [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
         <br>
-        [2024-06] My master's thesis (**deep compressed sensing for RIS communications**) has been awarded as an excellent master's thesis in HNIST, and has been recommended as an **excellent master's thesis in Hunan Province**. [Link](https://mmistakes.github.io/minimal-mistakes/)
+        [2024-06] My master's thesis (**Deep compressed sensing for RIS communications**) has been awarded as an excellent master's thesis in HNIST, and has been recommended as an **excellent master's thesis in Hunan Province**. [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
+         <br>
+                [2023-10] A collaborative project (**Active RIS for wireless communications**) has received funding by the Key Research and
+Development Program of Hubei Province under Grant 2023BAB061, as a major participant in the conception and writing of the application form. [Link](https://mmistakes.github.io/minimal-mistakes/)
+        <br>
+        <br>
+
 
 For more info
 ------

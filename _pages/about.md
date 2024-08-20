@@ -24,13 +24,13 @@ News
 Development Program of Hubei Province under Grant 2023BAB061, as a major participant in the conception and writing of the application form. [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
         <br>                
-[2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position problem** in the 18-th China post-graduate mathematical contest in modeling (Proportion of first prize < 1/100). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
+[2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 18-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
 [2022-5] I am awarded the first prize scholarship in in HNIST (Proportion of first prize < 1/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
-[2021-12] Our team (Jian Xiao, Aoqing Zhao and Pengda Ding) was awarded tht second prize for **mmWave FMCW Radar-based position problem** in the 17-th China post-graduate mathematical contest in modeling (Proportion of first prize < 1/10). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
+[2021-12] Our team (Jian Xiao, Aoqing Zhao and Pengda Ding) was awarded tht second prize for **Low-complexity computation and storage of correlation matrix** in the 17-th China post-graduate mathematical contest in modeling (Proportion of the second prize = 15.34% ). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
 [2021-9] I got fourth place for **AI-based channel estimation** task in Wireless Communication AI Competition (WAIC) 2021 hosted by The 5G+AI Work Group of IMT-2020 (5G) Promotion Group (Total number of participating teams

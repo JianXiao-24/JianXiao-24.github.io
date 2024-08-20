@@ -10,9 +10,6 @@ main:
 
   - title: "Awards"
     url: /talks/    
-
-  - title: "Activities"
-    url: /teaching/    
     
   - title: "Except Research"
     url: /portfolio/

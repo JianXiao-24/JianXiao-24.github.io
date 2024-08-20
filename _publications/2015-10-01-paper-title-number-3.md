@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "U-MLP-Based Hybrid-Field Channel Estimation for XL-RIS Assisted Millimeter-Wave MIMO Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3

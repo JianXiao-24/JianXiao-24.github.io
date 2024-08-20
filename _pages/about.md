@@ -14,7 +14,7 @@ I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan In
 
 News
 ======
-[2024-08] I pass my PhD viva with minor corrections. Many thanks to both examiners <a href="https://sites.google.com/site/liuweipage">Prof. Wei Liu</a> from Queen Mary University of London and <a href="https://sites.google.com/site/micmatthaiou/home">Prof. Michalis Matthaiou</a> from Queens University of Belfast.
+[2024-06] A leading project (**generative AI for near-field communications**) has received funding by the Graduate Innovation Program of Central China Normal University under Grant 2024CXZZ151. 
         <br>
         <br>
         [2024-06] I am awarded Exemplary Reviewer of IEEE Wireless Communications Letters [<a href="./homepage_files/WCL_2023_Exemplary_Reviewer.pdf">Certificate</a>].

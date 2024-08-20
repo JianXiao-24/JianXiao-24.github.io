@@ -3,9 +3,9 @@ title: "Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIM
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'The code is available at [MTN](https://github.com/WiCi-Lab/LPAN).'
+excerpt: 'The code is available at [LPAN](https://github.com/WiCi-Lab/LPAN)'
 date: 2010-10-01
-venue: 'Journal 1'
+venue: 'IEEE Transactions on Wireless Communications'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'J. Xiao, J. Wang, Z. Wang, W. Xie and Y. Liu, "Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5969-5984, June 2024, doi: 10.1109/TWC.2023.3329387. '

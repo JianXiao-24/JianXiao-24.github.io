@@ -1,7 +1,7 @@
 ---
 title: "Story"
-excerpt: "Love & Gone <br/><img src='/images/love.jpg'>"
+excerpt: "Memory & Gone <br/><img src='/images/love.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Please remember that the original name of this account is CLC0530

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'A multi-scale attention based channel estimation framework is proposed for reconfigurable intelligent surface (RIS) aided massive multiple-input multiple-output systems, in which hardware imperfections and time-varying characteristics of the cascaded channel are investigated. By exploiting the spatial correlations of different scales in the RIS reflection element domain, we construct a Laplacian pyramid attention network (LPAN) to realize the high-dimensional cascaded channel reconstruction with limited pilot overhead. Furthermore, we leverage parameter sharing and recursion strategy to reduce the space complexity. Moreover, a selective fine-tuning strategy is developed to realize the domain adaption. The code is available at [LPAN](https://github.com/WiCi-Lab/LPAN)'
-date: 08 November 2023
+date: 08 June 2024
 venue: 'IEEE Transactions on Wireless Communications'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

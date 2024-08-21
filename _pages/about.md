@@ -34,7 +34,7 @@ Development Program of Hubei Province under Grant 2023BAB061, as a major partici
 [2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 18-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
-[2022-5] I am awarded the first prize scholarship in in HNIST (Proportion of first prize = 1/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
+[2022-5] I am awarded the first prize graduate scholarship in in HNIST (Proportion of first prize = 1/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
 [2021-12] Our team (Jian Xiao, Aoqing Zhao and Pengda Ding) was awarded tht second prize for **Low-complexity computation and storage of correlation matrice** in the 17-th China post-graduate mathematical contest in modeling (Proportion of the second prize = 15.34% ). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]

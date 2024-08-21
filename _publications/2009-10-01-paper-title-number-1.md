@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 17 May 2024
-excerpt: 'A joint cascaded channel estimation scheme is proposed for simultaneously transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) systems with hardware imperfections. In particular, the practical hybrid near- and far-field electromagnetic radiation with spatial non-stationarity is investigated. By exploiting the cascaded channel correlations between different users and between different STAR-RIS elements, a multi-task learning (MTL)-based channel estimation framework is proposed. The code is available at [MTN](https://github.com/WiCi-Lab/MTN)'
+excerpt: 'A joint cascaded channel estimation scheme is proposed for simultaneously transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) systems with hardware imperfections. The practical hybrid near- and far-field electromagnetic radiation with spatial non-stationarity is investigated. By exploiting the cascaded channel correlations between different users and between different STAR-RIS elements, a multi-task learning (MTL)-based channel estimation framework is proposed. The code is available at [MTN](https://github.com/WiCi-Lab/MTN)'
 venue: ' IEEE Transactions on Communications '
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10533725)'

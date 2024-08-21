@@ -1,6 +1,6 @@
 ---
 title: "Football"
-excerpt: "Arsenal & Ars è ne Wenger <br/><img src='/images/arsena.png'>"
+excerpt: "Arsenal & Ars è ne Wenger <br/><img src='/images/arsena.jpg'>"
 collection: portfolio
 ---
 

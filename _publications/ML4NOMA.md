@@ -1,9 +1,9 @@
 ---
-title: "Deep Learning for NOMA Networks"
+title: "Deep Sustainable Learning for NOMA Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 17 May 2023
+permalink: /publication/ML4NOMA
+date: 17 May 2021
 excerpt: 'We propose a deep adder network to achieve the sustainable NOMA modulation detection in short packet transmission of mMTC scenarios, in which the convolution operations required by traditinoal CNN architecture are replaced by the adder operations with low energy consumption'
 venue: ' 电子与信息学报 '
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

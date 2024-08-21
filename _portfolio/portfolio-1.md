@@ -1,6 +1,6 @@
 ---
-title: "1234"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Football"
+excerpt: "Arsenal & Ars è ne Wenger 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

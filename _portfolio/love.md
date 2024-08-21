@@ -1,5 +1,5 @@
 ---
-title: "Football"
+title: "Story"
 excerpt: "Love & Gone 1<br/><img src='/images/love.jpg'>"
 collection: portfolio
 ---

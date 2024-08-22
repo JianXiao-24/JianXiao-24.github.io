@@ -9,7 +9,7 @@ MIMO-OFDM systems.'
 venue: ' 电子与信息学报, 北京邮电大学学报, IEEE ICASSP '
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10533725)'
-citation: '[1]	王骥，李子龙，肖健，李涣哲，谢文武，余超,“基于低复杂度加法网络的NOMA短报文多用户检测算法研究”，电子与信息学报，2024.<br>
+citation: '<br>[1]	王骥，李子龙，肖健，李涣哲，谢文武，余超,“基于低复杂度加法网络的NOMA短报文多用户检测算法研究”，电子与信息学报，2024.<br>
 [2]	谢文武，李攀，肖健，王骥，杨亮,“基于多任务联邦学习的协作MIMO-NOMA符号检测算法研究”，北京邮电大学学报，2024.<br>
 [3] J. Zou, J. Xiao, Q. Mao, S. Liu, and Y. Liang, "Deep receiver with non-orthogonal superimposed pilots for MIMO-OFDM Systems", submitted, IEEE ICASSP 2024.
 '

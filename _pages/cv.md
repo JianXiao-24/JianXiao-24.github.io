@@ -25,13 +25,13 @@ Work experience
   
 Skills
 ======
-* Baseband signal processing algorithms in wireless physical layer 
-* Machine learning algorithms for wireless communications
+* Baseband signal processing algorithms in wireless physical layer (MATLAB Programing)
+* Machine learning algorithms for wireless communications (Python Programing)
 * Embedded System Design
   * One-chip Computer (C51, STM32 Series)
   * DSP (CCS Programing)
   * Circuit simulation and PCB design (Multisim and Altium Designer)
-* Skill 3
+
 
 Publications
 ======
@@ -47,4 +47,6 @@ Awards
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal reviewers: IEEE TCCN, IOTJ, Physical Communications and so on.
+* Conference reviewers: IEEE GLOBECOM 2023, ICCT 2023 and so on.
+

@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2016-2019: We media
-  * 头条号，企鹅号，大鱼号
+  * Platforms: 头条号，企鹅号，大鱼号
   * Duties includes: Content-authoring creation
   * Supervisor: The Users
 

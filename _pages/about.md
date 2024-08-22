@@ -26,7 +26,7 @@ News
         <br>
          <br>
 [2023-10] A collaborative project (**Active RIS for wireless communications**) has received funding by the Key Research and
-Development Program of Hubei Province under Grant 2023BAB061, as a major participant in the conception and writing of the application form. [Link](https://mmistakes.github.io/minimal-mistakes/)
+Development Program of Hubei Province under Grant 2023BAB061, as a major contributor in the conception and writing of the application form. [Link](https://mmistakes.github.io/minimal-mistakes/)
         <br>
         <br>                
 [2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 18-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]

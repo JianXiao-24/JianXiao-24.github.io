@@ -11,10 +11,10 @@ MIMO-OFDM systems.'
 venue: ' IEEE CL & WCL '
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10533725)'
-citation: 'W. Xie, J. Xiao, P. Zhu, C. Yu and L. Yang, "Deep Compressed Sensing-Based Cascaded Channel Estimation for RIS-Aided Communication Systems," in IEEE Wireless Communications Letters, vol. 11, no. 4, pp. 846-850, April 2022.<br>
-W. Xie, J. Xiao, P. Zhu and C. Yu, "Multi-Task Learning-Based Channel Estimation for RIS Assisted Multi-User Communication Systems," in IEEE Communications Letters, vol. 26, no. 3, pp. 577-581, March 2022.<br>
-W. Xie, J. Zou, J. Xiao, M. Li and X. Peng, "Quan-Transformer Based Channel Feedback for RIS-Aided Wireless Communication Systems," in IEEE Comzomunications Letters, vol. 26, no. 11, pp. 2631-2635, Nov. 2022.<br>
-J. Zou, J. Xiao, P. Zhu, C. Yu and L. Yang, "Deep Compressed Sensing-Based Cascaded Channel Estimation for RIS-Aided Communication Systems," in IEEE Wireless Communications Letters, vol. 11, no. 4, pp. 846-850, April 2022.
+citation: '<br> [1] W. Xie, *J. Xiao*, P. Zhu, C. Yu and L. Yang, "Deep Compressed Sensing-Based Cascaded Channel Estimation for RIS-Aided Communication Systems," in IEEE Wireless Communications Letters, vol. 11, no. 4, pp. 846-850, April 2022.<br>
+[2] W. Xie, *J. Xiao*, P. Zhu and C. Yu, "Multi-Task Learning-Based Channel Estimation for RIS Assisted Multi-User Communication Systems," in IEEE Communications Letters, vol. 26, no. 3, pp. 577-581, March 2022.<br>
+[3] W. Xie, J. Zou, *J. Xiao*, M. Li and X. Peng, "Quan-Transformer Based Channel Feedback for RIS-Aided Wireless Communication Systems," in IEEE Comzomunications Letters, vol. 26, no. 11, pp. 2631-2635, Nov. 2022.<br>
+[4] J. Zou, J. Xiao, P. Zhu, C. Yu and L. Yang, "Deep Compressed Sensing-Based Cascaded Channel Estimation for RIS-Aided Communication Systems," in IEEE Wireless Communications Letters, vol. 11, no. 4, pp. 846-850, April 2022.
 '
 ---
 

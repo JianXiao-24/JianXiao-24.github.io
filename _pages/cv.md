@@ -27,10 +27,10 @@ Skills
 ======
 * Baseband signal processing algorithms in wireless physical layer
 * Machine learning algorithms in wireless communications
-* 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Embedded System Design
+  * One-chip Computer
+  * DSP
+  * ARM
 * Skill 3
 
 Publications

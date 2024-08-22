@@ -47,6 +47,6 @@ Awards
   
 Service and leadership
 ======
-* Journal reviewers: IEEE TCCN, IOTJ, Physical Communications and so on.
-* Conference reviewers: IEEE GLOBECOM 2023, ICCT 2023 and so on.
+* Journal reviewers: IEEE TCCN, IOTJ, and so on.
+* Conference reviewers: IEEE GLOBECOM 2023, ICCT 2023, and so on.
 

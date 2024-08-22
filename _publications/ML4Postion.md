@@ -1,5 +1,5 @@
 ---
-title: "Self-Supervised Learning for Wireelss Positioning with limited labeled data"
+title: "Self-Supervised Learning for Few-Shot Positioning"
 collection: publications
 category: manuscripts
 permalink: /publication/ML4Postion

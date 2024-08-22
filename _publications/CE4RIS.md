@@ -3,7 +3,7 @@ title: "Deep Learning for Channel Estimation and Feeback for RIS Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/CE4RIS
-date: 17 May 2021
+date: 17 May 2022
 excerpt: '1) We proposed a wavelet-driven learnable soft-thresholding network architectureto joint estimate the direct channel and cascaded channel in RIS systems at the same coherence time by learning the feature of shared pilots. 2) We propose a deep compressed sensing framework to reduce the pilot overhead of cascaded channel estimation for RIS-aided Massive MIMO communication system. 3) We propose a  Transformer empowered quantized sample framework for CSI compression and reconstruction in FDD RIS systems. 4) We propose a distributed learning-based joint channel estimation and feedback scheme for RIS-aided multi-user systems.
 
 himulti-layer data transmission scheme with non-orthogonal superimposed pilot to enhance the effective throughput of
@@ -15,6 +15,7 @@ citation: '<br> [1] W. Xie, J. Xiao, P. Zhu, C. Yu and L. Yang, "Deep Compressed
 [2] W. Xie, J. Xiao, P. Zhu and C. Yu, "Multi-Task Learning-Based Channel Estimation for RIS Assisted Multi-User Communication Systems," in IEEE Communications Letters, vol. 26, no. 3, pp. 577-581, March 2022.<br>
 [3] W. Xie, J. Zou, J. Xiao, M. Li and X. Peng, "Quan-Transformer Based Channel Feedback for RIS-Aided Wireless Communication Systems," in IEEE Comzomunications Letters, vol. 26, no. 11, pp. 2631-2635, Nov. 2022.<br>
 [4] J. Zou, Q. Mao, J. Xiao, S. Liu, and Y. Liang, "Distributed Learning-Based Channel Estimation and Feedback for RIS-Aided Massive MIMO Systems," IEEE Wireless Communications Letters, under second round of review, 2024.
+[5] J. Wang, S. Gong, J. Xiao, J. Wang, and X. Li, "A lightweight channel prediction network for RIS assisted UAV-LEO Communications," IEEE Wireless Communications Letters, under second round of review, 2024.
 '
 ---
 

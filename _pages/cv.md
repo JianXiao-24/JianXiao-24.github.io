@@ -25,12 +25,12 @@ Work experience
   
 Skills
 ======
-* Baseband signal processing algorithms in wireless physical layer
-* Machine learning algorithms in wireless communications
+* Baseband signal processing algorithms in wireless physical layer 
+* Machine learning algorithms for wireless communications
 * Embedded System Design
-  * One-chip Computer
-  * DSP
-  * ARM
+  * One-chip Computer (C51, STM32 Series)
+  * DSP (CCS Programing)
+  * Circuit simulation and PCB design (Multisim and Altium Designer)
 * Skill 3
 
 Publications

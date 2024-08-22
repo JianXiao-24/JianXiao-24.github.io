@@ -25,8 +25,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Baseband signal processing algorithms in wireless physical layer
+* Machine learning algorithms in wireless communications
+* 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -38,16 +39,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership

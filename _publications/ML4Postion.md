@@ -8,7 +8,7 @@ date: 08 June 2024
 venue: 'IEEE Transactions on Vehicular Technology'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'J. Xiao, J. Wang, Z. Wang, W. Xie and Y. Liu, "Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5969-5984, June 2024, doi: 10.1109/TWC.2023.3329387. '
+citation: 'J. Wang, W. Fang, J. Xiao, Y. Zheng, L. Zheng, and F. Liu, “Signal-Guided Masked Autoencoder for Wireless Positioning with Limited Labeled Data”, IEEE Transactions on Vehicular Technology, accept to appear. '
 ---
 
 A signal-guided masked autoencoder (S-MAE) based semi-supervised learning framework is proposed for high-precision positioning with limited labeled channel impulse response (CIR) samples. To release the overfiting effect of

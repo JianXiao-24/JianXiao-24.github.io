@@ -3,7 +3,7 @@ title: "Self-Supervised Learning for Wireelss Positioning with limited labeled d
 collection: publications
 category: manuscripts
 permalink: /publication/ML4Postion
-excerpt: 'A signal-guided masked autoencoder (S-MAE) based semi-supervised learning framework is proposed for high-precision positioning with limited labeled channel impulse response (CIR) samples. To release the overfiting effect of the neural network under insufficient labeled samples, we design a two-stage training strategy based on the proposed S-MAE model, which can be divided into pre-training and fine-tuning stage. The code is available at [LPAN](https://github.com/WiCi-Lab/LPAN)'
+excerpt: 'A signal-guided masked autoencoder (S-MAE) based semi-supervised learning framework is proposed for high-precision positioning with limited labeled channel impulse response (CIR) samples. To release the overfiting effect of the neural network under insufficient labeled samples, we design a two-stage training strategy based on the proposed S-MAE model, which can be divided into pre-training and fine-tuning stage. The code is available at [MAE-Position](https://github.com/WiCi-Lab/LPAN)'
 date: 08 June 2024
 venue: 'IEEE Transactions on Vehicular Technology'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'

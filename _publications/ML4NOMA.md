@@ -1,5 +1,5 @@
 ---
-title: "Deep Sustainable Learning for NOMA Networks"
+title: "Deep Sustainable Learning for Cooperative NOMA Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/ML4NOMA

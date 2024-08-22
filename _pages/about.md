@@ -35,9 +35,6 @@ Development Program of Hubei Province under Grant 2023BAB061, as a major partici
 [2022-5] I am awarded the first prize graduate scholarship in HNIST (Proportion of first prize = 1/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
-[2021-12] Our team (Jian Xiao, Aoqing Zhao and Pengda Ding) was awarded tht second prize for **Low-complexity computation and storage of correlation matrice** in the 17-th China post-graduate mathematical contest in modeling (Proportion of the second prize = 15.34% ). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
-        <br>
-        <br>
 [2021-9] I got fourth place for **AI-based channel estimation** task in Wireless Communication AI Competition (WAIC) 2021 hosted by The 5G+AI Work Group of IMT-2020 (5G) Promotion Group (Total number of participating teams
 = 651). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]. [code](https://mmistakes.github.io/minimal-mistakes/)
         <br>

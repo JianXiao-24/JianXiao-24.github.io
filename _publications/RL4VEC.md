@@ -6,8 +6,7 @@ permalink: /publication/RL4VEC
 excerpt: 'In order to reduce the computing load of edge servers and improve the system response, a shared offloading strategy based on deep reinforcement learning is proposed for the complex computing environment of Internet of Vehicles (IoVs). The shared offloading strategy exploits the commonality of vehicles task requests, similar computing tasks coming from different vehicles can share the computing results of former task submitted. '
 date: 08 June 2022
 venue: 'IEEE Systems Journal'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://JianXiao-24.github.io/files/Deep_Reinforcement_Learning_for_Shared_Offloading_Strategy_in_Vehicle_Edge_Computing.pdf'
 citation: 'X Peng, Z. Han, W. Xie, C. Yu, P. Zhu, J. Xiao and J. Yang, "Deep Reinforcement Learning for Shared Offloading Strategy in Vehicle Edge Computing," in IEEE Systems Journal, vol. 17, no. 2, pp. 2089-2100, June 2023 '
 ---
 

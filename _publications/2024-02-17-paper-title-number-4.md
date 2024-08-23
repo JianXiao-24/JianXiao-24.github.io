@@ -6,6 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 date: 12 May 2023
 excerpt: 'Motivated by the development of single image super-resolution (SR) reconstruction in computer version, classic SR networks have been widely applied to the channel estimation of wireless communication system. To capture the spatial correlations in the reflection element-domain of reconfigurable intelligent surface (RIS), we propose a multi-scale supervised learning-based Laplacian pyramid wide residual network (LapWRes) to achieve the progressive reconstruction of cascaded channel in a coarse-to-fine fashion. '
 venue: '2023 IEEE Wireless Communications and Networking Conference (WCNC)'
+slidesurl: 'http://JianXiao-24.github.io/files/Multi-Scale_Supervised_Learning-Based_Channel_Estimation_for_RIS-Aided_Communication_Systems.pdf'
 paperurl: 'http://JianXiao-24.github.io/files/Multi-Scale_Supervised_Learning-Based_Channel_Estimation_for_RIS-Aided_Communication_Systems.pdf'
 citation: 'J. Xiao, J. Wang, W. Xie, X. Wang, C. Wang and H. Xu, "Multi-Scale Supervised Learning-Based Channel Estimation for RIS-Aided Communication Systems," 2023 IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, United Kingdom, 2023.'
 ---

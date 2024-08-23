@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan Institute of Science and Technology](https://mmistakes.github.io/minimal-mistakes/) under the supervision of Dr. [Wenwu Xie](https://mmistakes.github.io/minimal-mistakes/), in 2019 and 2022, respectively. I am currently pursuing the Ph.D. degree with [Central China Normal University](https://mmistakes.github.io/minimal-mistakes/), advised by Dr. [Ji Wang](https://mmistakes.github.io/minimal-mistakes/)  and Prof. [Guangming Huang](https://mmistakes.github.io/minimal-mistakes/). I expect to conduct my doctoral defense in June 2026, and if everything goes smoothly, I am looking forward a potential postdoctoral position on a global scale. I will be deeply grateful to any friend who has provided me with the opportunity/offer. My current research interests include 
+I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan Institute of Science and Technology](https://www.hnist.cn/) under the supervision of Dr. [Wenwu Xie](https://sice.hnist.cn/info/1289/7182.htm), in 2019 and 2022, respectively. I am currently pursuing the Ph.D. degree with [Central China Normal University](https://www.ccnu.edu.cn/), advised by Dr. [Ji Wang](https://phy.ccnu.edu.cn/info/1063/4380.htm)  and Prof. [Guangming Huang](https://phy.ccnu.edu.cn/info/1063/1272.htm). I expect to conduct my doctoral defense in June 2026, and if everything goes smoothly, I am looking forward a potential postdoctoral position on a global scale. I will be deeply grateful to any friend who has provided me with the opportunity/offer. My current research interests include 
 * Electromagnetic information theory
 * Holographic communications
 * Large model for all.

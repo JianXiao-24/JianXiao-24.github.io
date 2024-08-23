@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "不为无益之事，何以遣有涯之生？"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-不为无益之事，何以遣有涯之生？
-<br>《忆云词丙稿·自序》-清·项廷纪
+--《忆云词丙稿·自序》-清·项廷纪
 
 About me
 ======

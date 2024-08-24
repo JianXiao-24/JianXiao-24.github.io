@@ -19,7 +19,7 @@ I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan In
 
 News
 ======
-[2024-07] A leading proposal (**Generative AI for near-field communications**) has received funding by the [Graduate Innovation Program of Central China Normal University](https://gs.ccnu.edu.cn/info/1039/3704.htm) under Grant 2024CXZZ151 (Proportion of finances = 6/40). 
+[2024-07] A leading proposal (**Generative AI for near-field communications**) has received funding by the [Graduate Innovation Program of Central China Normal University](https://gs.ccnu.edu.cn/info/1039/3704.htm) under Grant 2024CXZZ151 (Financed Proportion = 6/40). 
         <br>
         <br>
         [2024-06] My master's thesis (**Deep compressed sensing for RIS communications**) has been awarded as an [excellent master's thesis in HNIST](https://xk.hnist.cn/info/1182/8551.htm), and has been recommended as an **excellent master's thesis in Hunan Province** (Proportion of winners = 1/30). 

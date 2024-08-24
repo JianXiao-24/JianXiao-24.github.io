@@ -16,6 +16,8 @@ I received the B.Eng. degree and the M.Sc. degree (Distinction) at the [Hunan In
 * <a href="https://jianxiao-24.github.io/files/Electromagnetic Information Theory.pdf">Electromagnetic Information Theory</a>
 * <a href="https://jianxiao-24.github.io/files/Holographic MIMO Communications.pdf"> Holographic MIMO Communications </a>
 * <a href="https://jianxiao-24.github.io/files/Generative AI Agent for Next-Generation MIMO Design.pdf"> AI Agent towards 6G</a>
+* [AI Agent towards 6G](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10558824)
+
 
 News
 ======

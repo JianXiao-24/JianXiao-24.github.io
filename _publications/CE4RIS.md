@@ -1,10 +1,10 @@
 ---
-title: "Intelligent Channel Estimation, Feeback and Prediction for RIS Systems"
+title: "Intelligent Channel Estimation, Feedback and Prediction for RIS Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/CE4RIS
 date: 17 May 2022
-excerpt: '1) We proposed a wavelet-driven learnable soft-thresholding network architectureto joint estimate the direct channel and cascaded channel in RIS systems at the same coherence time by learning the feature of shared pilots. 2) We proposed a deep compressed sensing framework to reduce the pilot overhead of cascaded channel estimation for RIS-aided Massive MIMO communication system. 3) We proposed a  Transformer empowered quantized sample framework for CSI compression and reconstruction in FDD RIS systems. 4) We proposed a distributed learning-based joint channel estimation and feedback scheme for RIS-aided multi-user systems. 5) We proposed a linear network architecture to realize the channel prediction for RIS assisted UAV-LEO Communications. The aboved works were accomplished during my master's degree program.'
+excerpt: '1) We proposed a wavelet-driven learnable soft-thresholding network architectureto joint estimate the direct channel and cascaded channel in RIS systems at the same coherence time by learning the feature of shared pilots. 2) We proposed a deep compressed sensing framework to reduce the pilot overhead of cascaded channel estimation for RIS-aided Massive MIMO communication system. 3) We proposed a  Transformer empowered quantized sample framework for CSI compression and reconstruction in FDD RIS systems. 4) We proposed a distributed learning-based joint channel estimation and feedback scheme for RIS-aided multi-user systems. 5) We proposed a linear network architecture to realize the channel prediction for RIS assisted UAV-LEO Communications. '
 venue: ' IEEE CL & WCL '
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10533725)'
 citation: '<br> [1] W. Xie, J. Xiao, P. Zhu, C. Yu and L. Yang, "Deep Compressed Sensing-Based Cascaded Channel Estimation for RIS-Aided Communication Systems," in IEEE Wireless Communications Letters, vol. 11, no. 4, pp. 846-850, April 2022.[<a href="https://JianXiao-24.github.io/files/Deep_Compressed_Sensing-Based_Cascaded_Channel_Estimation_for_RIS-Aided_Communication_Systems.pdf"> Paper</a>] <br>

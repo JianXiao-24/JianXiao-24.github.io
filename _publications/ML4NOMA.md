@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ML4NOMA
 date: 17 May 2021
-excerpt: ' 21) We propose a deep adder network to achieve sustainable NOMA modulation detection in short packet transmission of mMTC scenarios, in which the convolution operations required by traditional CNN architecture are replaced by the adder operations with low energy consumption. 2) We propose a multi-task federated learning framework to exploit a deep receiver architecture for cooperative MIMO-NOMA systems. The above works were accomplished during my master's degree program.23 '
+excerpt: ' 21) We proposed a deep adder network to achieve sustainable NOMA modulation detection in short packet transmission of mMTC scenarios, in which the convolution operations required by traditional CNN architecture are replaced by the adder operations with low energy consumption. 2) We propose a multi-task federated learning framework to exploit a deep receiver architecture for cooperative MIMO-NOMA systems.23 '
 venue: ' '
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10533725)'
 citation: '<br> [1] W. Xie, J. Xiao, P. Zhu, C. Yu and L. Yang, "Deep Compressed Sensing-Based Cascaded Channel Estimation for RIS-Aided Communication Systems," in IEEE Wireless Communications Letters, vol. 11, no. 4, pp. 846-850, April 2022.[<a href="https://JianXiao-24.github.io/files/Deep_Compressed_Sensing-Based_Cascaded_Channel_Estimation_for_RIS-Aided_Communication_Systems.pdf"> Paper</a>] <br>

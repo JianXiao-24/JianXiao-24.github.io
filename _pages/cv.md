@@ -15,10 +15,10 @@ Education
 * M.S. in Information and Communication Engineering, Hunan Institute Of Science And Technology, 2022
 * B.S. in Electronic and Information Engineering, Hunan Institute Of Science And Technology, 2019
 
-Work experience
+Part-time experience
 ======
 * 2016-2019: We Media
-  * Platforms: ByteDance, Tencent, UC
+  * Platforms: ByteDance, Tencent, UC Browser
   * Duties: Content-authoring creation
   * Supervisors: Chinese mobile users
 

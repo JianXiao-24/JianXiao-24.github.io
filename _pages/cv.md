@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* 2016-2019: We media
-  * Platforms: 头条号，企鹅号，大鱼号
+* 2016-2019: We Media
+  * Platforms: ByteDance, Tencent, UC
   * Duties: Content-authoring creation
   * Supervisors: Chinese mobile users
 

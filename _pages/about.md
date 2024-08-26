@@ -33,7 +33,7 @@ News
 [2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 18-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="https://jianxiao-24.github.io/files/NO.A2020300080.pdf">Certificate</a>]
         <br>
         <br>
-[2022-5] I am awarded the first prize graduate scholarship in HNIST (Proportion of first prize = 2/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
+[2022-5] I am awarded the first prize graduate scholarship in HNIST (Proportion of first prize = 5/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
 [2021-9] I got fourth place for **AI-based channel estimation** task in [Wireless Communication AI Competition (WAIC) 2021](https://www.datafountain.cn/competitions/504) hosted by The 5G+AI Work Group of IMT-2020 (5G) Promotion Group (Total number of participating teams = 651).  [Code](https://github.com/WiCi-Lab/WAIC2021)

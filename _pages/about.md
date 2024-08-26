@@ -26,7 +26,7 @@ News
         [2024-07] A leading proposal (**Generative AI for near-field communications**) was funded by the [Graduate Innovation Program of Central China Normal University](https://gs.ccnu.edu.cn/info/1039/3704.htm) under Grant 2024CXZZ151 (Financed Proportion = 6/40). 
         <br>
          <br>
-[2023-10] A collaborative project (**Active RIS for wireless communications**) has received funding by [the Key Research and Development Program of Hubei Province](https://kjt.hubei.gov.cn/jhgl/pmshb/home.html) under Grant 2023BAB061, as a major contributor in the conception and writing of the application form. 
+[2023-12] A first-authored paper (**Hybrid near/far-field channel estimation for STAR-RIS networks**) was presented in [IEEE GLOBECOM 2023](https://globecom2023.ieee-globecom.org/program/technical-program-day-3), Kuala Lumpur, Malaysia. 
         <br>
         <br>
 

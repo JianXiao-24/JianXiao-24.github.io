@@ -3,7 +3,7 @@ title: "Wideband Beamforming for RIS Assisted Near-Field Communications"
 collection: publications
 category: manuscripts
 permalink: /publication/NFBF
-date: 17 May 2024
+date: 17 August 2024
 excerpt: 'A near-field wideband beamforming scheme is investigated for reconfigurable intelligent surface (RIS) assisted
 multiple-input multiple-output (MIMO) systems, in which a
 deep learning-based end-to-end (E2E) optimization framework

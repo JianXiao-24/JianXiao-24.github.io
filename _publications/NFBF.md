@@ -18,4 +18,25 @@ paperurl: 'http://JianXiao-24.github.io/files/Multi-Task_Learning_for_Near_Far_F
 citation: 'J. Wang, J. Xiao, Y. Zou, W. Xie and Y. Liu, "Wideband Beamforming for RIS Assisted Near-Field Communications," in IEEE Transactions on Wireless Communications, 2024, accept to appear.'
 ---
 
-A joint cascaded channel estimation scheme is proposed for simultaneously transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) systems with hardware imperfections. In particular, the practical hybrid near- and far-field electromagnetic radiation with spatial non-stationarity is investigated. By exploiting the cascaded channel correlations between different users and between different STAR-RIS elements, a multi-task learning (MTL)-based channel estimation framework is proposed. This framework is capable of estimating the cascaded channels for transmission and reflection simultaneously based on noisy observations of the mixture channel. Following the design guideline of the proposed MTL framework, an efficient multi-task network (MTN) is developed to reconstruct the high-dimensional channels with limited pilot overhead. In the proposed MTN architecture, a mixed convolution and multilayer perception module is exploited to capture the effective hybrid-field channel features. This module integrates the locality bias modeling of the channel-wise convolution and the long-range dependency modeling of multilayer perception, which finely learns both local spatial correlations and specific spatial non-stationarity of the hybrid-field cascaded channels. Numerical results show that the proposed MTN achieves superior channel estimation accuracy with less training overhead compared with the existing state-of-the-art benchmarks, in terms of required pilots, computations, and network parameters.
+A near-field wideband beamforming scheme is investigated for reconfigurable intelligent surface (RIS) assisted
+multiple-input multiple-output (MIMO) systems, in which a
+deep learning-based end-to-end (E2E) optimization framework
+is proposed to maximize the system spectral efficiency. To deal
+with the near-field double beam split effect, the base station
+is equipped with frequency-dependent hybrid precoding architecture by introducing sub-connected true time delay (TTD)
+units, while two specific RIS architectures, namely true time
+delay-based RIS (TTD-RIS) and virtual subarray-based RIS
+(SA-RIS), are exploited to realize the frequency-dependent passive beamforming at the RIS. Furthermore, the efficient E2E
+beamforming models without explicit channel state information
+are proposed, which jointly exploits the uplink channel training
+module and the downlink wideband beamforming module. In the
+proposed network architecture of the E2E models, the classical
+communication signal processing methods, i.e., polarized filtering
+and sparsity transform, are leveraged to develop a signal-guided
+beamforming network. Numerical results show that the proposed
+E2E models have superior beamforming performance and robustness to conventional beamforming benchmarks. Furthermore,
+the tradeoff between the beamforming gain and the hardware
+complexity is investigated for different frequency-dependent RIS
+architectures, in which the TTD-RIS can achieve better spectral
+efficiency than the SA-RIS while requiring additional energy
+consumption and hardware cost.

@@ -38,12 +38,21 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  * Patents
+    * [1]
   
 Awards
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Projects
+======
+  [1] 
+  [2] Oct. 2021-Sept. 2023, Natural Science Foundation of Hunan Province (No. 2021CFB248), “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.
+  [3] Oct. 2021-Sept. 2023, Natural Science Foundation of Hunan Province (No. 2021CFB248), “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.
+
   
 Service and leadership
 ======

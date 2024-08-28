@@ -47,11 +47,11 @@ Awards
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Projects
+Research Projects
 ======
-  [1] A multifunctional intelligent communication base station (No.CN209949438U), 2020<br>
-  [2] Oct. 2020-Sept. 2022, Natural Science Foundation of Hunan Province, “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.<br>
-  [3] Oct. 2021-Sept. 2023, Natural Science Foundation of Hunan Province, “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.
+  [1] June 2024-June 2025, Graduate Innovation Program of Central China Normal University, “Generative AI for Near-field Communications”, Principal Investigator.<br>
+  [2] Oct. 2020-Sept. 2022, Natural Science Foundation of Hunan Province, “Research and Application of Space Time Encoding in MIMO-NOMA System”, Collaborator.<br>
+  [3] June. 2020-June. 2021, Graduate Innovation Program of Hunan Province, “Research on Physical Layer Security of MIMO-NOMA System Based on Space Modulation”, Collaborator.
 
   
 Service and leadership

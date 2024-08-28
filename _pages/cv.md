@@ -38,8 +38,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  * Patents
-    * [1]
+  * Patents：Ji Wang, Jian Xiao, Wenwu Xie, Jun Wang, Kai Chen, Peng Zhu, and Shouyin Liu, “Multi-Task
+Federated Learning-Based Signal Detection Method of Cooperative MIMO-NOMA System”, Publication No. ZL202310725976.4, Sept. 12nd, 2023.
   
 Awards
 ======
@@ -49,9 +49,9 @@ Awards
 
 Projects
 ======
-  [1] 
-  [2] Oct. 2021-Sept. 2023, Natural Science Foundation of Hunan Province (No. 2021CFB248), “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.
-  [3] Oct. 2021-Sept. 2023, Natural Science Foundation of Hunan Province (No. 2021CFB248), “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.
+  [1] A multifunctional intelligent communication base station (No.CN209949438U), 2020<br>
+  [2] Oct. 2020-Sept. 2022, Natural Science Foundation of Hunan Province, “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.<br>
+  [3] Oct. 2021-Sept. 2023, Natural Science Foundation of Hunan Province, “Research on Intelligent Transmission Techniques in Integrated Space and Terrestrial Networks”, Participated.
 
   
 Service and leadership

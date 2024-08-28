@@ -36,7 +36,7 @@ News
 [2022-5] I was awarded the **first prize graduate scholarship** (Pacemaker to Merit Student) in HNIST (Proportion of first prize = 5/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]
         <br>
         <br>
-[2021-9] I got fourth place for **AI-based channel estimation** task in [Wireless Communication AI Competition (WAIC) 2021](https://www.datafountain.cn/competitions/504) hosted by The 5G+AI Work Group of IMT-2020 (5G) Promotion Group (Total number of participating teams = 651).  [Code](https://github.com/WiCi-Lab/WAIC2021)
+[2021-9] I got fourth place for **AI-based channel estimation** task in [Wireless Communication AI Competition (WAIC) 2021](https://www.datafountain.cn/competitions/504) hosted by The 5G+AI Work Group of IMT-2020 (5G) Promotion Group (Total number of participating teams = 651).  [[Code]](https://github.com/WiCi-Lab/WAIC2021)
 
 
 For more info

@@ -38,8 +38,10 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
- * Patents*：Ji Wang, Jian Xiao, Wenwu Xie, Jun Wang, Kai Chen, Peng Zhu, and Shouyin Liu, “Multi-Task Federated Learning-Based Signal Detection Method of Cooperative MIMO-NOMA System”, Publication No. ZL202310725976.4, Sept. 12nd, 2023.
+
+Patents
+======
+Ji Wang, Jian Xiao, Wenwu Xie, Jun Wang, Kai Chen, Peng Zhu, and Shouyin Liu, “Multi-Task Federated Learning-Based Signal Detection Method of Cooperative MIMO-NOMA System”, Publication No. ZL202310725976.4, Sept. 12nd, 2023.
   
 Awards
 ======

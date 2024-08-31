@@ -14,7 +14,7 @@ units, while two specific RIS architectures, namely true time
 delay-based RIS (TTD-RIS) and virtual subarray-based RIS
 (SA-RIS), are exploited to realize the frequency-dependent passive beamforming at the RIS. '
 venue: ' IEEE Transactions on Wireless Communications '
-paperurl: 'http://JianXiao-24.github.io/files/Multi-Task_Learning_for_Near_Far_Field_Channel_Estimation_in_STAR-RIS_Networks.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10659326'
 citation: 'J. Wang, J. Xiao, Y. Zou, W. Xie and Y. Liu, "Wideband Beamforming for RIS Assisted Near-Field Communications," in IEEE Transactions on Wireless Communications, 2024, accept to appear.'
 ---
 

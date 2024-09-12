@@ -3,10 +3,10 @@ title: "Self-Supervised Learning for Few-Shot Positioning"
 collection: publications
 category: manuscripts
 permalink: /publication/ML4Postion
-excerpt: 'A signal-guided masked autoencoder (S-MAE) based semi-supervised learning framework is proposed for high-precision positioning with limited labeled channel impulse response (CIR) samples. To release the overfiting effect of the neural network under insufficient labeled samples, we design a two-stage training strategy based on the proposed S-MAE model, which can be divided into pre-training and fine-tuning stage. The code is available at [MAE-Position](https://github.com/WiCi-Lab/LPAN)'
+excerpt: 'A signal-guided masked autoencoder (S-MAE) based semi-supervised learning framework is proposed for high-precision positioning with limited labeled channel impulse response (CIR) samples. To release the overfiting effect of the neural network under insufficient labeled samples, we design a two-stage training strategy based on the proposed S-MAE model, which can be divided into pre-training and fine-tuning stage. The code is available at [MAE-Position](https://github.com/jiwang19/Generated-AI-for-positioning)'
 date: 08 January 2024
 venue: 'IEEE Transactions on Vehicular Technology'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10678770'
 citation: 'J. Wang, W. Fang, J. Xiao, Y. Zheng, L. Zheng, and F. Liu, “Signal-Guided Masked Autoencoder for Wireless Positioning with Limited Labeled Data”, IEEE Transactions on Vehicular Technology, accept to appear. '
 ---
 

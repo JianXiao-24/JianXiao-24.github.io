@@ -7,7 +7,7 @@ excerpt: 'A signal-guided masked autoencoder (S-MAE) based semi-supervised learn
 date: 08 January 2024
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://ieeexplore.ieee.org/document/10678770'
-citation: 'J. Wang, W. Fang, J. Xiao, Y. Zheng, L. Zheng, and F. Liu, “Signal-Guided Masked Autoencoder for Wireless Positioning with Limited Labeled Data”, IEEE Transactions on Vehicular Technology, accept to appear. '
+citation: 'J. Wang, W. Fang, J. Xiao, Y. Zheng, L. Zheng and F. Liu, "Signal-Guided Masked Autoencoder for Wireless Positioning With Limited Labeled Samples," in IEEE Transactions on Vehicular Technology, 2024. '
 ---
 
 A signal-guided masked autoencoder (S-MAE) based semi-supervised learning framework is proposed for high-precision positioning with limited labeled channel impulse response (CIR) samples. To release the overfiting effect of

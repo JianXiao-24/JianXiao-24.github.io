@@ -34,7 +34,7 @@ News
         <br>
         <br>
 
-[2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 18-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="https://jianxiao-24.github.io/files/NO.A2020300080.pdf">Certificate</a>]
+[2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 18-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="https://jianxiao-24.github.io/files/NO.A2022100034.pdf">Certificate</a>]
         <br>
         <br>
 [2022-5] I was awarded the **first prize graduate scholarship** (Pacemaker to Merit Student) in HNIST (Proportion of first prize = 5/30). [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>]

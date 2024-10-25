@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D student in Radio Physics, Central China Normal University, 2026 (expected)
-* M.S. in Information and Communication Engineering, Hunan Institute of Science And Technology, 2022
-* B.S. in Electronic and Information Engineering, Hunan Institute of Science And Technology, 2019
+* M.S. in Information and Communication Engineering, Hunan Institute of Science and Technology, 2022
+* B.S. in Electronic and Information Engineering, Hunan Institute of Science and Technology, 2019
 
 Part-time experience
 ======

@@ -21,6 +21,8 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 
 News
 ======
+[2024-10]  I was awarded the National scholarship in CCNU. [<a href="./homepage_files/Imperial_certificate.pdf">Certificate</a>].
+
 [2024-09]  A recipient of the [**Excellent Master Dissertation Award of Hunan Province**](https://xk.hnist.cn/info/1182/8581.htm) in 2024.
         <br>
         <br>

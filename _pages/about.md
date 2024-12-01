@@ -47,4 +47,4 @@ News
 
 For more info
 ------
-More info about our research group can be found in [WiCi-Lab](https://wici-lab.github.io/). 
+More info about our research group can be found in [WiCi-Lab](https://jiwang19.github.io/). 

@@ -21,7 +21,7 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 
 News
 ======
-[2024-11]  A recipient of the [**National scholarship**](https://xk.hnist.cn/info/1182/8581.htm) in 2024.
+[2024-11]  A recipient of the [**National scholarship**](https://www.ccnu.edu.cn/) in 2024.
         <br>
         <br>
 [2024-09]  A recipient of the [**Excellent Master Dissertation Award of Hunan Province**](https://xk.hnist.cn/info/1182/8581.htm) in 2024.

@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'A multi-scale attention based channel estimation framework is proposed for reconfigurable intelligent surface (RIS) aided massive multiple-input multiple-output systems, in which hardware imperfections and time-varying characteristics of the cascaded channel are investigated. By exploiting the spatial correlations of different scales in the RIS reflection element domain, we construct a Laplacian pyramid attention network (LPAN) to realize the high-dimensional cascaded channel reconstruction with limited pilot overhead. Furthermore, we leverage parameter sharing and recursion strategy to reduce the space complexity. Moreover, a selective fine-tuning strategy is developed to realize the domain adaption. The code is available at [LPAN](https://github.com/WiCi-Lab/LPAN)'
 date: 08 May 2024
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: 'http://JianXiao-24.github.io/files/Multi-Scale_Attention_Based_Channel_Estimation_for_RIS-Aided_Massive_MIMO_Systems.pdf'
+paperurl: 'http://JianXiao-24.github.io/files/FINAL VERSION.pdf'
 citation: 'J. Xiao, J. Wang, Z. Wang, W. Xie and Y. Liu, "Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems,"  IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5969-5984, June 2024. '
 ---
 

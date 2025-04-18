@@ -33,10 +33,6 @@ News
          [2024-05] My master's thesis (**Deep compressed sensing for RIS communications**) was awarded as the [Excellent Master Dissertation in HNIST](https://xk.hnist.cn/info/1182/8551.htm), and was recommended as the **Excellent Master Dissertation of Hunan Province** in 2024 (Award-winning Proportion = 1/30). [<a href="https://jianxiao-24.github.io/files/肖健_学位论文.pdf">Thesis</a>] [<a href="https://jianxiao-24.github.io/files/肖健_学位论文答辩.pdf">Slides</a>]
         <br>
         <br>
-[2023-12] A first-authored paper (**Hybrid near/far-field channel estimation for STAR-RIS networks**) was presented in [IEEE GLOBECOM 2023](https://globecom2023.ieee-globecom.org/program/technical-program-day-3), Kuala Lumpur, Malaysia. 
-        <br>
-        <br>
-
 [2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 19-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="https://jianxiao-24.github.io/files/NO.A2022100034.pdf">Certificate</a>]
         <br>
         <br>

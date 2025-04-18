@@ -58,6 +58,6 @@ Research Projects
   
 Service and leadership
 ======
-* Journal reviewers: IEEE TCCN, IOTJ, and so on.
+* Journal reviewers: IEEE TWC, TCCN, TVT, IOTJ, and so on.
 * Conference reviewers: IEEE GLOBECOM 2023, ICCT 2023, and so on.
 

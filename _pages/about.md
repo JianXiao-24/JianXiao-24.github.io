@@ -25,7 +25,8 @@ News
 [2024-11]  A recipient of the [**National scholarship**](https://www.ccnu.edu.cn/) in 2024.
         <br>
         <br>
-[2024-09]  A recipient of the [**Excellent Master Dissertation Award of Hunan Province**](https://xk.hnist.cn/info/1182/8581.htm) in 2024.
+[2024-09]  A recipient of the [**Excellent Master Dissertation Award of Hunan Province**](https://jianxiao-24.github.io/files/master.jpg
+) in 2024.
         <br>
         <br>
         [2024-07] A leading proposal (**Generative AI for near-field communications**) was funded by the [Graduate Innovation Program of Central China Normal University](https://gs.ccnu.edu.cn/info/1039/3704.htm) (NO.2024CXZZ151) (Financed Proportion = 6/40). 

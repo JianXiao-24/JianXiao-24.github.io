@@ -22,10 +22,10 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 
 News
 ======
-[2025-05]  A recipient of the State Scholarship Fund to pursue study in NTU as a Visiting PhD Student (2025-2026).
+[2025-05]  A recipient of the State Scholarship Fund to pursue study in NTU as a Visiting PhD Student (2025-2026).[<a href="https://jianxiao-24.github.io/files/csc.pdf">Certificate</a>]
         <br>
         <br>
-[2024-11]  A recipient of the National scholarship in 2024.
+[2024-11]  A recipient of the National scholarship in 2024.[<a href="https://jianxiao-24.github.io/files/ns.jpg">Certificate</a>]
         <br>
         <br>
 [2024-09]  A recipient of the [**Excellent Master Dissertation Award of Hunan Province**](https://xk.hnist.cn/info/1182/8581.htm

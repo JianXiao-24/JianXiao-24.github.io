@@ -1,19 +1,13 @@
 ---
-title: "Channel Estimation for Pinching-Antenna Systems (PASS)"
+title: "Frequency-Selective Modeling and Analysis for OFDM-Integrated Wideband Pinching-Antenna Systems"
 collection: publications
 category: manuscripts
-permalink: /publication/CE_PASS
-date: 30 May 2025
-excerpt: 'This letter is the first to explore channel estimation for Pinching-Antenna SyStems (PASS), addressing their uniquely ill-conditioned and underdetermined channel characteristics. In particular, two efficient deep learning-based channel estimators are proposed. 1) PAMoE: This estimator incorporates dynamic padding, feature embedding, fusion, and mixture of experts (MoE) modules, which effectively leverage the positional information of PAs and exploit expert diversity. 2) PAformer: This Transformer-style estimator employs the self-attention mechanism to predict channel coefficients in a per-antenna manner, which offers more flexibility to adaptively deal with dynamic numbers of PAs in practical deployment. The code is available at [PASS](https://github.com/WiCi-Lab/Channel-Estimation-for-Pinching-Antenna-Systems)'
-venue: ' IEEE Communications Letters '
-paperurl: 'https://ieeexplore.ieee.org/document/11018390'
-citation: 'J. Xiao, J. Wang, and Y. Liu, "Channel Estimation for Pinching-Antenna Systems (PASS)," in IEEE Communications Letters. 2025.'
+permalink: /publication/OFDM_PASS
+date: 30 June 2025
+excerpt: 'This letter investigates the integration of pinching-antenna systems (PASS) with orthogonal frequency division multiplexing (OFDM) to ensure their compatibility and to explore the frequency-selective behavior inherent to PASS. First, an end-to-end channel model for OFDM PASS is proposed based on electromagnetic-compliant modeling of waveguides and coupled-mode theory, which includes frequency-dependent waveguide attenuation, dispersion and antenna coupling effect. Furthermore, a critical dependence of the OFDM cyclic prefix (CP) overhead on the proximity of the operating frequency to the waveguide cutoff is revealed. Moreover, the phase misalignment effect across subcarriers in OFDM PASS is derived for an approximate pinching antenna location strategy based on path loss minimization. The code is available at [PASS](https://github.com/WiCi-Lab/OFDM_PASS)'
+venue: ' IEEE Wireless Communications Letters '
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11114424'
+citation: 'J. Xiao, J. Wang, M. Zeng, Y. Liu and G. K. Karagiannidis, "Frequency-Selective Modeling and Analysis for OFDM-Integrated Wideband Pinching-Antenna Systems," in IEEE Wireless Communications Letters, 2025. doi: 10.1109/LWC.2025.3596094.'
 ---
 
-Pinching antennas (PAs) represent a revolutionary flexible antenna technology that leverages dielectric waveguides and electromagnetic coupling to mitigate large-scale path
-loss. This letter is the first to explore channel estimation for Pinching-Antenna SyStems (PASS), addressing their uniquely ill-conditioned and underdetermined channel characteristics. In
-particular, two efficient deep learning-based channel estimators are proposed. 1) PAMoE: This estimator incorporates dynamic padding, feature embedding, fusion, and mixture of experts
-(MoE) modules, which effectively leverage the positional information of PAs and exploit expert diversity. 2) PAformer: This Transformer-style estimator employs the self-attention mechanism to predict channel coefficients in a per-antenna manner,
-which offers more flexibility to adaptively deal with dynamic numbers of PAs in practical deployment. Numerical results demonstrate that 1) the proposed deep learning-based channel
-estimators outperform conventional methods and exhibit excellent zero-shot learning capabilities, and 2) PAMoE delivers higher channel estimation accuracy via MoE specialization, while
-PAformer natively handles an arbitrary number of PAs, trading self-attention complexity for superior scalability.
+This letter investigates the integration of pinching-antenna systems (PASS) with orthogonal frequency division multiplexing (OFDM) to ensure their compatibility and to explore the frequency-selective behavior inherent to PASS. First, an end-to-end channel model for OFDM PASS is proposed based on electromagnetic-compliant modeling of waveguides and coupled-mode theory, which includes frequency-dependent waveguide attenuation, dispersion and antenna coupling effect. Furthermore, a critical dependence of the OFDM cyclic prefix (CP) overhead on the proximity of the operating frequency to the waveguide cutoff is revealed. Moreover, the phase misalignment effect across subcarriers in OFDM PASS is derived for an approximate pinching antenna location strategy based on path loss minimization, which reveals the phase misalignment is exacerbated for wider bandwidths and larger array size. Numerical results show that: 1) frequency-selective effects in OFDM PASS lead to substantial variations in subcarrier achievable rates, highlighting the necessity of operating above the waveguide cutoff frequency for effective communications; 2) waveguide dispersion mandates considerable CP overhead when operating near the cutoff frequency, severely impacting the spectral efficiency of OFDM PASS; and 3) the gentle linear waveguide attenuation in a practical PASS significantly more advantageous than the severe logarithmic path loss characteristic of fixed-location antennas.

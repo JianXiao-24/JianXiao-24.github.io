@@ -22,6 +22,9 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 
 News
 ======
+[2025-5]  A recipient of the State Scholarship Fund to pursue study in Singapore as a Visiting PhD Student (2025-2026).
+        <br>
+        <br>
 [2024-11]  A recipient of the [**National scholarship**](https://www.ccnu.edu.cn/) in 2024.
         <br>
         <br>

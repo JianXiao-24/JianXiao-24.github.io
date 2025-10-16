@@ -17,11 +17,16 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 * <a href="https://jianxiao-24.github.io/files/Electromagnetic Information Theory.pdf">Electromagnetic Information Theory</a>
 * [Holographic MIMO](https://jianxiao-24.github.io/files/Holographic_MIMO_Communications.pdf)
 * [Flexible MIMO](https://arxiv.org/pdf/2508.00268)
+* [Atomic Radio Communications](https://arxiv.org/pdf/2509.12586)
 * [AI Agent towards 6G](https://jianxiao-24.github.io/files/Generative_AI_Agent.pdf)
 
 
 News
 ======
+[2025-05]  A recipient of Excellent Scientific and Technological Papers of Hubei Province in 2024.[<a href="https://jianxiao-24.github.io/files/csc.pdf">Certificate</a>]
+        <br>
+        <br>
+
 [2025-05]  A recipient of the State Scholarship Fund to pursue study in NTU as a Visiting PhD Student (2025-2026).[<a href="https://jianxiao-24.github.io/files/csc.pdf">Certificate</a>]
         <br>
         <br>

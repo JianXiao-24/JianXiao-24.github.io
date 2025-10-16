@@ -23,7 +23,7 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 
 News
 ======
-[2025-05]  A recipient of Excellent Scientific and Technological Papers of Hubei Province in 2024.[<a href="https://jianxiao-24.github.io/files/2024年度湖北省科协优秀科技论文证书扫描件.pdf">Certificate</a>]
+[2025-09]  A recipient of Excellent Scientific and Technological Papers of Hubei Province in 2024.[<a href="https://jianxiao-24.github.io/files/2024年度湖北省科协优秀科技论文证书扫描件.pdf">Certificate</a>]
         <br>
         <br>
 

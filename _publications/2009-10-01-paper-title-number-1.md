@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 17 May 2024
 excerpt: 'A joint cascaded channel estimation scheme is proposed for simultaneously transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) systems with hardware imperfections. The practical hybrid near- and far-field electromagnetic radiation with spatial non-stationarity is investigated. By exploiting the cascaded channel correlations between different users and between different STAR-RIS elements, a multi-task learning (MTL)-based channel estimation framework is proposed. The code is available at [MTN](https://github.com/WiCi-Lab/MTN)'
 venue: ' IEEE Transactions on Communications '
-paperurl: 'http://JianXiao-24.github.io/files/FINAL VERSION.pdf'
+paperurl: 'http://JianXiao-24.github.io/files/Multi-Task_Learning_for_Near_Far_Field_Channel_Estimation_in_STAR-RIS_Networks.pdf'
 citation: 'J. Xiao, J. Wang, Z. Wang, J. Wang, W. Xie and Y. Liu, "Multi-Task Learning for Near/Far Field Channel Estimation in STAR-RIS Networks," in IEEE Transactions on Communications, vol. 72, no. 10, pp. 6344-6359, Oct. 2024.'
 ---
 

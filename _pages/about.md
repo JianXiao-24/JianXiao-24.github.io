@@ -15,7 +15,6 @@ About me
 
 I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Science and Technology](https://www.hnist.cn/) under the supervision of Dr. [Wenwu Xie](https://sice.hnist.cn/info/1289/7182.htm), in 2019 and 2022, respectively. I am currently pursuing the Ph.D. degree with [Central China Normal University](https://www.ccnu.edu.cn/), advised by Dr. [Ji Wang](https://phy.ccnu.edu.cn/info/1063/4380.htm)  and Prof. [Guangming Huang](https://phy.ccnu.edu.cn/info/1063/1272.htm). My current research interests include 
 * <a href="https://jianxiao-24.github.io/files/Electromagnetic Information Theory.pdf">Electromagnetic Information Theory</a>
-* [Holographic MIMO](https://jianxiao-24.github.io/files/Holographic_MIMO_Communications.pdf)
 * [Flexible MIMO](https://arxiv.org/pdf/2508.00268)
 * [Atomic Radio](https://arxiv.org/pdf/2509.12586)
 * [AI Agent towards 6G](https://jianxiao-24.github.io/files/Generative_AI_Agent.pdf)

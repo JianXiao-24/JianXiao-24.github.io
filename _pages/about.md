@@ -22,6 +22,12 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 
 News
 ======
+
+         [2024-05] My Ph.D. thesis (**Channel Estimation for Reconfigurable MIMO Systems**) was awarded as the [Excellent Doctor Dissertation in CCNU](https://gs.ccnu.edu.cn/info/1057/6533.htm).
+
+                 <br>
+        <br>
+
 [2025-09]  A recipient of Excellent Scientific and Technological Papers of Hubei Province in 2024.[<a href="https://jianxiao-24.github.io/files/2024年度湖北省科协优秀科技论文证书扫描件.pdf">Certificate</a>]
         <br>
         <br>

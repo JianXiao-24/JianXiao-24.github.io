@@ -39,7 +39,7 @@ News
         [2024-07] A leading proposal (**Generative AI for near-field communications**) was funded by the [Graduate Innovation Program of Central China Normal University](https://gs.ccnu.edu.cn/info/1039/3704.htm) (NO.2024CXZZ151) (Financed Proportion = 6/40). 
         <br>
          <br>
-         [2024-05] My master's thesis (**Deep compressed sensing for RIS communications**) was awarded as the [Excellent Master Dissertation in HNIST](https://xk.hnist.cn/info/1182/8551.htm), and was recommended as the **Excellent Master Dissertation of Hunan Province** in 2024 (Award-winning Proportion = 1/30). [<a href="https://jianxiao-24.github.io/files/肖健_学位论文.pdf">Thesis</a>] [<a href="https://jianxiao-24.github.io/files/肖健_学位论文答辩.pdf">Slides</a>]
+         [2024-05] My master's thesis (**Deep compressed sensing for RIS communications**) was awarded as the [Excellent Master Dissertation in HNIST](https://xk.hnist.cn/info/1182/8551.htm).
         <br>
         <br>
 [2022-12] Our team (Jian Xiao, Wei Fang and Yuanjia Huang) was awarded tht first prize for **mmWave FMCW Radar-based position** in the 19-th China post-graduate mathematical contest in modeling (Proportion of the first prize = 1.13%). [<a href="https://jianxiao-24.github.io/files/NO.A2022100034.pdf">Certificate</a>]

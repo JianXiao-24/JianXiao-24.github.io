@@ -23,7 +23,7 @@ I received the B.Eng. degree and the M.Sc. degree at the [Hunan Institute of Sci
 News
 ======
 
-[2024-05] My Ph.D. thesis (**Channel Estimation for Reconfigurable MIMO Systems**) was awarded as the [Excellent Doctor Dissertation in CCNU](https://gs.ccnu.edu.cn/info/1057/6533.htm).
+[2026-06] My Ph.D. thesis (**Channel Estimation for Reconfigurable MIMO Systems**) was awarded as the [Excellent Doctor Dissertation in CCNU](https://gs.ccnu.edu.cn/info/1057/6533.htm).
         <br>
         <br>
 

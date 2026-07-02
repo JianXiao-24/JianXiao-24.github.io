@@ -24,11 +24,11 @@ author:
   avatar           : "me.jpg"
   name             : "Jian Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "A Ph.D. student at CCNU"
-  location         : "Wuhan, China"
-  employer         : "Central China Normal University"
+  bio              : "Research Fellow"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
   uri              : # URL
-  email            : "jianx@mails.ccnu.edu.cn" 
+  email            : "jian.xiao@ntu.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
